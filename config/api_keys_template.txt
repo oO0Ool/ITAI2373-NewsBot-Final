@@ -1,0 +1,6 @@
+# Template for API keys and sensitive information
+# Replace with your actual keys and rename to api_keys.txt (and add to .gitignore)
+
+# Example:
+# OPENAI_API_KEY="your_openai_api_key_here"
+# GITHUB_TOKEN="your_github_token_here"
